@@ -14,7 +14,7 @@
 
 ## Caractéristiques 🕵️
 
-Utilisation des langages HTML/CSS/JAVASCRIPT dans le but de créer une webapp permettant de lancer le jeu), le contenu n'est pas définitif, la page se verra mise à jour grâce aux acquis en formation, notamment le contenu dynamique via JAVASCRIPT et le responsive avec les medias queries et bien d'autres features!
+Utilisation des langages HTML/CSS/JAVASCRIPT dans le but de créer une webapp permettant de lancer le jeu Escape From Tarkov, le contenu n'est pas définitif, la page se verra mise à jour grâce aux acquis en formation, notamment le contenu dynamique via JAVASCRIPT et le responsive avec les medias queries et bien d'autres features!
 
 ## Technologies utilisées 👨‍💻
 
