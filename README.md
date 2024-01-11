@@ -9,7 +9,7 @@
 - [Contribuer](#contribuer)
 
 ## Aperçu 👀
-![006](https://github.com/kferrerux/projectcv/assets/77007630/557705d9-8f83-4876-a210-c6334265a953)
+![006](https://github.com/kferrerux/eft-webapplauncher/assets/77007630/912933ea-6967-49a4-ba93-a097c00bee92)
 *<p align=center>Work in progress</p>*
 
 ## Caractéristiques 🕵️
