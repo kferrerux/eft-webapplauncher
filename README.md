@@ -14,7 +14,7 @@
 
 ## Caractéristiques 🕵️
 
-Utilisation des langages HTML/CSS dans le but de créer une page professionnelle, le contenu n'est pas définitif, la page se verra mise à jour grâce aux acquis en formation
+Utilisation des langages HTML/CSS/JAVASCRIPT dans le but de créer une webapp permettant de lancer le jeu), le contenu n'est pas définitif, la page se verra mise à jour grâce aux acquis en formation, notamment le contenu dynamique via JAVASCRIPT et le responsive avec les medias queries et bien d'autres features!
 
 ## Technologies utilisées 👨‍💻
 
@@ -22,15 +22,16 @@ Utilisation des langages HTML/CSS dans le but de créer une page professionnelle
 - Visual Studio Code
 - Git
 - FIGMA (Prototyping)
-- ADOBE Suit
+- ADOBE Suite
 - HTML
 - CSS
+- JAVASCRIPT
 
 ## Comment utiliser ⏯️
 
 a . Clonez ce référentiel
     ```bash
-    git clone https://github.com/kferrerux/projectcv.git
+    git clone https://github.com/kferrerux/eft-webapplauncher.git
     ```
 
 b . Ouvrez le fichier `index.html` dans votre navigateur
