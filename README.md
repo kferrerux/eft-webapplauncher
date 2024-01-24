@@ -9,12 +9,12 @@
 - [Contribuer](#contribuer)
 
 ## Aperçu 👀
-![006](https://github.com/kferrerux/projectcv/assets/77007630/557705d9-8f83-4876-a210-c6334265a953)
+![006](https://github.com/kferrerux/eft-webapplauncher/assets/77007630/912933ea-6967-49a4-ba93-a097c00bee92)
 *<p align=center>Work in progress</p>*
 
 ## Caractéristiques 🕵️
 
-Utilisation des langages HTML/CSS dans le but de créer une page professionnelle, le contenu n'est pas définitif, la page se verra mise à jour grâce aux acquis en formation
+Utilisation des langages HTML/CSS/JAVASCRIPT dans le but de créer une webapp permettant de lancer le jeu Escape From Tarkov, le contenu n'est pas définitif, la page se verra mise à jour grâce aux acquis en formation, notamment le contenu dynamique via JAVASCRIPT et le responsive avec les medias queries et bien d'autres features!
 
 ## Technologies utilisées 👨‍💻
 
@@ -22,15 +22,16 @@ Utilisation des langages HTML/CSS dans le but de créer une page professionnelle
 - Visual Studio Code
 - Git
 - FIGMA (Prototyping)
-- ADOBE Suit
+- ADOBE Suite
 - HTML
 - CSS
+- JAVASCRIPT
 
 ## Comment utiliser ⏯️
 
 a . Clonez ce référentiel
     ```bash
-    git clone https://github.com/kferrerux/projectcv.git
+    git clone https://github.com/kferrerux/eft-webapplauncher.git
     ```
 
 b . Ouvrez le fichier `index.html` dans votre navigateur
